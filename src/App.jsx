@@ -1,6 +1,6 @@
 import Home from "./components/pages/Home";
 import AddProduct from "./components/products/AddProduct";
-import EditProduct from "./components/products/Editproduct";
+import EditProduct from "./components/products/EditProduct";
 import "./styles/App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
